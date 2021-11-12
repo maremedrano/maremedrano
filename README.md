@@ -1,15 +1,15 @@
-<h1 align="center">Oi ✨, Eu sou a Mariana Medrano.</h1>
+<h1 align="center">Oi ✨, eu sou a Mariana Medrano.</h1>
 <h3 align="center">Pedagoga e aspirante a Desenvolvedora Full Stack Jr.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maremedrano&label=Profile%20views&color=0e75b6&style=flat" alt="maremedrano" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maremedrano" alt="maremedrano" /></a> </p>
 
-- 👨‍💻 Meus projetos de design do Flickr: [https://www.flickr.com/photos/192711650@N08/](https://www.flickr.com/photos/192711650@N08/)
+- 👨‍💻 Meus projetos de design do Flickr: [https://www.flickr.com/photos/192711650@N08/](Flickr)
 
 - 📫 Meu e-mail para contato: **maremedrano@yahoo.com**
 
-- 💬 Moro em São Caetano do Sul - SP, Brasil.
+- 📍 Moro em São Caetano do Sul - SP, Brasil.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
