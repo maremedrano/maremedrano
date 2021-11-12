@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maremedrano" alt="maremedrano" /></a> </p>
 
-- 👨‍💻 Meus projetos de design do Flickr: [https://www.flickr.com/photos/192711650@N08/](Flickr)
+- 👨‍💻 Meus projetos de design do Flickr: [https://www.flickr.com/photos/192711650@N08/]
 
 - 📫 Meu e-mail para contato: **maremedrano@yahoo.com**
 
