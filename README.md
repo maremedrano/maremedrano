@@ -15,8 +15,8 @@
 
 ## Contato
 
-📫 E-mail maremedrano@yahoo.com
-📍 São Caetano do Sul - SP, Brasil
+- 📫 E-mail: maremedrano@yahoo.com
+- 📍 Localização: São Caetano do Sul - SP, Brasil
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=maremedrano&show_icons=true&locale=en&layout=compact" alt="maremedrano" /></p>
