@@ -19,4 +19,4 @@
 - 📍 Localização: São Caetano do Sul - SP, Brasil
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=maremedrano&show_icons=true&locale=en&layout=compact" alt="maremedrano" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=marianamedrano&show_icons=true&locale=en&layout=compact" alt="marianamedrano" /></p>
